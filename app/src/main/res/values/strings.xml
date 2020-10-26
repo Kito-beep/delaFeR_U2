@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">delaFeR_U2</string>
+    <string name="tab_text_1">Asteroides</string>
+    <string name="tab_text_2">ConstraintLayout</string>
+    <string name="tab_text_3">Calculadora Básica</string>
+    <string name="tab_text_4">Calculadora</string>
+    <string name="accion_mostrar">Mostrar Lugares</string>
+    <string name="accion_preferencias">Preferencias</string>
+    <string name="accion_acerca_de">Acerca de </string>
+    <string name="accion_salir">Salir</string>
+    <string name="accion_introduce">Introduce número</string>
+</resources>
